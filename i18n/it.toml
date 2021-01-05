@@ -12,7 +12,7 @@ other = "Contenuti"
 other = "presso"
 
 [resume]
-other = "Il mio curriculum"
+other = "Il Mio Curriculum"
 
 [navigation]
 other = "Navigazione"
@@ -27,13 +27,13 @@ other = "Email"
 other = "Telefono"
 
 [newsletter_text]
-other = "Resta aggiornato con la notifica di email"
+other = "Resta aggiornato"
 
 [newsletter_input_placeholder]
 other = "Inserisci l'email"
 
 [newsletter_warning]
-other = "Non condivideremo l'email con altri."
+other = "Non condivideremo email con altri."
 
 [submit]
 other = "Invia"
@@ -57,16 +57,16 @@ other = "su"
 other = "Pubblicazioni"
 
 [taken_courses]
-other = "Corsi presi"
+other = "Corsi seguiti"
 
 [course_name]
 other = "Nome del corso"
 
 [total_credit]
-other = "Credito totale"
+other = "Crediti totali"
 
 [obtained_credit]
-other = "Credito ottenuto"
+other = "Crediti ottenuti"
 
 [extracurricular_activities]
 other = "Attività extracurriculari"
